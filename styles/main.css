@@ -44,6 +44,11 @@
     height: 30px;
     background: orchid;
 }
+#back{
+    width: 60px;
+    height: 30px;
+    background:green;
+}
 /* 切换皮肤控件样式 */
 #skin {
     float: right;
